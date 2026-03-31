@@ -1,3 +1,3 @@
-Nombre del grupo: GRUPO 1
+Nombre del grupo: Grupo 1
 Curso: Herramientas de desarrollo
 Descripcion:  Editar README.md 
